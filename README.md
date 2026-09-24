@@ -38,4 +38,4 @@ The two key SQL queries were re-run in BigQuery against the same dataset, confir
 ## Files
 - `analysis.sql` — original SQLite queries, commented
 - `bigquery_queries.sql` — same core queries, adapted for BigQuery syntax
-- `data/` — raw dataset used for this analysis
+- `Sample_ Superstore.csv` — raw dataset used for this analysis
